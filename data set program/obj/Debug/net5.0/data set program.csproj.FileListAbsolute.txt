@@ -1,0 +1,15 @@
+/Users/adam/Desktop/data set program/obj/Debug/net5.0/data set program.csprojAssemblyReference.cache
+/Users/adam/Desktop/data set program/obj/Debug/net5.0/data set program.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adam/Desktop/data set program/obj/Debug/net5.0/data set program.AssemblyInfoInputs.cache
+/Users/adam/Desktop/data set program/obj/Debug/net5.0/data set program.AssemblyInfo.cs
+/Users/adam/Desktop/data set program/obj/Debug/net5.0/data set program.csproj.CoreCompileInputs.cache
+/Users/adam/Desktop/data set program/bin/Debug/net5.0/data set program.deps.json
+/Users/adam/Desktop/data set program/bin/Debug/net5.0/data set program.runtimeconfig.json
+/Users/adam/Desktop/data set program/bin/Debug/net5.0/data set program.runtimeconfig.dev.json
+/Users/adam/Desktop/data set program/bin/Debug/net5.0/data set program.dll
+/Users/adam/Desktop/data set program/bin/Debug/net5.0/ref/data set program.dll
+/Users/adam/Desktop/data set program/bin/Debug/net5.0/data set program.pdb
+/Users/adam/Desktop/data set program/obj/Debug/net5.0/data set program.dll
+/Users/adam/Desktop/data set program/obj/Debug/net5.0/ref/data set program.dll
+/Users/adam/Desktop/data set program/obj/Debug/net5.0/data set program.pdb
+/Users/adam/Desktop/data set program/obj/Debug/net5.0/data set program.genruntimeconfig.cache
